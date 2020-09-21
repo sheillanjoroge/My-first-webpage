@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first web page</title>
+    
+    </head>
+<body>
+   <h1>My favourite things</h1>
+  
+    <p>Here is a list of my favourite things!</p>
+      <ul>
+         <li>Skydiving</li>
+         <li>Intercessing</li>
+         <li>Psychotherapies</li>
+
+    <p> Here is another list of my bestfriends</p>
+      <ol>
+        <li>Ann</li>
+        <li>Betty</li>
+        <li>Cecil</li>
+        <li>Diana</li>
+      </ol>
+
+
+    
+   
+
+</body>     
+
+
+</html
